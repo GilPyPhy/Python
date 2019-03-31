@@ -1,5 +1,5 @@
 # Python (pour les physiciens, chimistes...)
-<b><i>Avant tout, lire le pdf Notebook Mode d'emploi</i></b>.
+<b><i>Vous ne connaissez pas Jupyter : lire "Notebook Mode d'emploi" (pdf)</i></b>.
 
 <b>Découvrir Python</b>
 - Etape1_Découvrir_Python : Python comme une calculatrice (graphique) en moins d'une heure ?
