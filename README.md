@@ -15,4 +15,6 @@
 <b>Programme PCSI / PC</b>
 - Euler1 (méthode d'Euler pour les équations différentielles d'ordre 1)
 
+Rq : les fichiers autres que .ipnb (notebook) ou .pdf sont sans intérêt (fichiers utilisés pour des démonstrations).
+
 Travail en cours...
