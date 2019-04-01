@@ -1,4 +1,4 @@
-# Python (pour les physiciens, chimistes...)
+# Python (pour la physique, la chimie...)
 <b><i>Vous ne connaissez pas Jupyter : lire "Notebook Mode d'emploi" (pdf)</i></b>.
 
 <b>Découvrir Python</b>
