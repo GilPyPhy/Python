@@ -6,7 +6,7 @@
 - Etape2_Bases_Programmation : tests, boucles... en moins d'une heure ?
 
 <b>Utiliser Python</b>
-- Fichiers : récupérer des données acquises ou crées dans Latispro, Régressi, Excel, ...
+- Fichiers : récupérer des données acquises ou créées dans Latispro, Régressi, Excel, ...
 - Calcul numérique : résolutions d'équations algébriques et différentielles, intégration
 
 <b>Faire cours avec Python</b>
