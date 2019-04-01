@@ -10,7 +10,7 @@
 - Calcul numérique : résolutions d'équations algébriques et différentielles, intégration, analyse de Fourier
 
 <b>Faire cours avec Python</b>
-- Simulations : réalisation d'applets interactives
+- Simulations : réalisation d'applets interactives, graphes 3D, animations
 
 <b>Programme PCSI / PC</b>
 - Euler1 (méthode d'Euler pour les équations différentielles d'ordre 1)
