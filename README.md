@@ -7,10 +7,10 @@
 
 <b>Utiliser Python</b>
 - Fichiers : récupérer des données acquises ou créées dans Latispro, Régressi, Excel, ...
-- Calcul numérique : résolutions d'équations algébriques et différentielles, intégration
+- Calcul numérique : résolutions d'équations algébriques et différentielles, intégration, analyse de Fourier
 
 <b>Faire cours avec Python</b>
-- Simulations : réaliser des applets interactives (à venir)
+- Simulations : réalisation d'applets interactives
 
 <b>Programme PCSI / PC</b>
 - Euler1 (méthode d'Euler pour les équations différentielles d'ordre 1)
