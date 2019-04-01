@@ -1,4 +1,0 @@
-Ceci est un fichier texte.
-Certains caractères sont invisibles dans l'éditeur de texte mais présents dans le fichier.
-
-Par exemple, les sauts de ligne.
