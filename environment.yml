@@ -1,4 +1,4 @@
-name: Python-environment
+name: ipyvolume
 channels:
   - conda-forge
 dependencies:
