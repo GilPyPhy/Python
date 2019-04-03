@@ -2,19 +2,22 @@ name: Python-environment
 channels:
   - conda-forge
 dependencies:
-  - numpy
-  - matplotlib
-  - scipy
+  - sqlite3
+  - wave
   - nodejs
   - pip:
-    - traittypes
-    - traitlets
-    - ipywidgets>=7.4
-    - Pillow
-    - scikit-image>=0.13
-    - requests
-    - ipywebrtc>=0.4
-    - pythreejs>=1.0
-    - jupyterlab>=0.34
-    - notebook>=5.3
+   - traittypes
+   - traitlets
+   - ipywidgets>=7.4
+   - Pillow
+   - scipy
+   - numpy
+   - scikit-image>=0.13
+   - requests
+   - ipywebrtc>=0.4
+   - pythreejs>=1.0
+   - matplotlib
+   - jupyterlab>=0.34
+   - notebook>=5.3
+   - imageio
   - ipyvolume
