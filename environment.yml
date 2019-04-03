@@ -2,8 +2,6 @@ name: Python-environment
 channels:
   - conda-forge
 dependencies:
-  - sqlite3
-  - wave
   - nodejs
   - pip:
    - traittypes
@@ -20,4 +18,6 @@ dependencies:
    - jupyterlab>=0.34
    - notebook>=5.3
    - imageio
+   - sqlite3
+   - wave
   - ipyvolume
