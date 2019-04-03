@@ -5,9 +5,9 @@ dependencies:
  - numpy
  - matplotlib
  - scipy
+ - sqlite3
  - pip:
    - Pillow
    - scikit-image>=0.13
    - imageio
-   - sqlite3
    - wave
