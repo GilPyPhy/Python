@@ -17,6 +17,7 @@
 <b>Programme PCSI / PC</b>
 - Euler1 (méthode d'Euler pour les équations différentielles d'ordre 1)
 - Bases_de_donnees : communiquer avec des bases de données, créer et modifier des bases
+- Images : traiter des images
 
 Rq : les fichiers autres que .ipnb (notebook) ou .pdf sont sans intérêt (fichiers utilisés pour des démonstrations).
 
