@@ -2,8 +2,8 @@ name: Python-environment
 channels:
   - conda-forge
 dependencies:
-  - nodejs
-  - pip:
+ - nodejs
+ - pip:
    - traittypes
    - traitlets
    - ipywidgets>=7.4
