@@ -10,3 +10,4 @@ dependencies:
    - scikit-image>=0.13
    - imageio
    - wave
+   - vpython
