@@ -20,4 +20,4 @@ dependencies:
    - imageio
    - sqlite3
    - wave
-  - ipyvolume
+ - ipyvolume
