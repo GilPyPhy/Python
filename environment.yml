@@ -2,11 +2,6 @@ name: Python-environment
 channels:
   - conda-forge
 dependencies:
- - numpy
- - matplotlib
- - scipy
- - pip:
-   - Pillow
-   - scikit-image>=0.13
-   - imageio
-   - wave
+  - ipyvolume
+  - ipywidgets
+  - jupyter_contrib_nbextensions
