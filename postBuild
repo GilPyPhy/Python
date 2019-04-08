@@ -1,0 +1,5 @@
+#!/bin/bash
+jupyter contrib nbextension install --user
+jupyter nbextension enable collapsible_headings/main
+jupyter trust index.ipynb
+python -c "import ipyvolume"
