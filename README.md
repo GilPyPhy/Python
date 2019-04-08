@@ -1,3 +1,4 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GilPyPhy/Python/master?filepath=index.ipynb)
 # Python (pour la physique, la chimie...)
 <b><i>Vous ne connaissez pas Jupyter : lire "Notebook Mode d'emploi" (pdf)</i></b>.
 
