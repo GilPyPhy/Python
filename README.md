@@ -2,7 +2,7 @@
 
 # Python pour la physique, la chimie et l'informatique en CPGE
 
-### Vous ne connaissez pas Jupyter : lire [Notebook Mode d'emploi](Notebooks_Mode_Emploi)
+### Vous ne connaissez pas Jupyter : lire [Notebook Mode d'emploi](Notebooks_Mode_Emploi.pdf)
 
 ## Découvrir Python pas à pas
 - [Apprivoiser un Python en moins d'une heure ?](Etape1_Decouvrir_Python.ipynb) Etape 1 - Python comme une calculatrice (graphique)
