@@ -1,25 +1,29 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GilPyPhy/Python/master?filepath=index.ipynb)
-# Python (pour la physique, la chimie...)
-<b><i>Vous ne connaissez pas Jupyter : lire "Notebook Mode d'emploi" (pdf)</i></b>.
 
-<b>Découvrir Python</b>
-- Etape1_Découvrir_Python : Python comme une calculatrice (graphique) en moins d'une heure ?
-- Etape2_Bases_Programmation : tests, boucles... en moins d'une heure ?
+# Python pour la physique, la chimie et l'informatique en CPGE
 
-<b>Utiliser Python</b>
-- Fichiers : récupérer des données acquises ou créées dans Latispro, Régressi, Excel, ...
-- Calcul_Numerique : résolutions d'équations algébriques et différentielles, intégration, analyse de Fourier
-- Images : traiter des images
-- Bases_de_donnees : communiquer avec des bases de données, créer et modifier des bases
+### Vous ne connaissez pas Jupyter : lire Notebook Mode d'emploi
 
-<b>Faire cours avec Python</b>
-- Simulations : réalisation d'applets interactives, animations, graphes 3D
+## Découvrir Python pas à pas
+- [Apprivoiser un Python en moins d'une heure ?](Etape1_Decouvrir_Python.ipynb) Etape 1 - Python comme une calculatrice (graphique)
+- [Les bases de la programmation en moins d'une heure ?](Etape2_Bases_programmation_Python.ipynb) Etape 2 - Tests, boucles
 
-<b>Programme PCSI / PC</b>
-- Euler1 (méthode d'Euler pour les équations différentielles d'ordre 1)
-- Bases_de_donnees : communiquer avec des bases de données, créer et modifier des bases
-- Images : traiter des images
+## Découvrir Python par le code
+- [Python Hack](Decouvrir_code.ipynb) Analyser du code pour le modifier et l'adapter
 
-Rq : les fichiers autres que .ipnb (notebook) ou .pdf sont sans intérêt (fichiers utilisés pour des démonstrations).
+## Utiliser Python
+- [Fichiers](Fichiers.ipynb) : récupérer des données acquises ou créées dans Latispro, Régressi, Excel
+- [Calcul Numerique](Calcul_Numerique.ipynb) : résolutions d'équations algébriques et différentielles, intégration, analyse de Fourier
+- [Images](Images.ipynb) : traiter des images
+- [Bases de donnees](Bases_de_donnees.ipynb) : communiquer avec des bases de données, créer et modifier des bases
+
+## Python en cours, TP, TIPE
+- [Simulations](Simulations.ipynb) : réalisation d'applets interactives, animations, graphes 3D
+
+## Informatique en PCSI / PC 
+- [Résumé](Python_Bases.ipynb) : ce qu'il faut savoir en C.P.G.E (à parcourir en plusieurs fois)
+- [Euler 1](Euler1.ipynb) : méthode d'Euler pour les équations différentielles d'ordre 1
+- [Numpy et matplotlib](numpy_matplotlib.ipynb)
+- [Fichiers](Fichiers.ipynb), [Images](Images.ipynb), [Calcul Numerique](Calcul_Numerique.ipynb), [Bases de donnees](Bases_de_donnees.ipynb)  
 
 Travail en cours...
