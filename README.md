@@ -28,4 +28,8 @@
 - [Numpy et matplotlib](numpy_matplotlib.ipynb)
 - [Fichiers](Fichiers.ipynb), [Images](Images.ipynb), [Calcul Numerique](Calcul_Numerique.ipynb), [Bases de donnees](Bases_de_donnees.ipynb)  
 
+## Applets physique
+Dans le dossier Applets
+
+
 Travail en cours...
