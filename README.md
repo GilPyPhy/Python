@@ -27,7 +27,7 @@
 - [Euler 1](Euler1.ipynb) : méthode d'Euler pour les équations différentielles d'ordre 1
 - [Numpy et matplotlib](numpy_matplotlib.ipynb)
 - [Fichiers](Fichiers.ipynb), [Images](Images.ipynb), [Calcul Numerique](Calcul_Numerique.ipynb), [Bases de donnees](Bases_de_donnees.ipynb)  
-- [Gauss] (Gauss.ipynb) : résolution d'un système linéaire.
+- [Gauss](Gauss.ipynb) : résolution d'un système linéaire.
 
 ## Applets physique
 Dans le dossier Applets
